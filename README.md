@@ -10,5 +10,5 @@ I am a passionate software developer and creative technologist from Canada 🍁
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amanda%20Simire-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amanda%20Simire-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/amandasimire/)
 
